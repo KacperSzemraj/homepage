@@ -1,0 +1,29 @@
+.footer {
+    background-color: #f7f7f7;
+    margin-top: 20px;
+    padding-top: 40px;
+    padding-bottom: 40px;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.footer__spanLeft {
+    margin-left: 5px;
+    padding: 5px 0px 5px 5px;
+    color: #505050;
+    background-color: #ffa801;
+    border-radius: 4px 0px 0px 4px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}
+
+.footer__spanRight {
+    margin-right: 5px;
+    padding: 5px 5px 5px 1px;
+    color: #f9f9f9;
+    background-color: #2E2D37;
+    border-radius: 0px 4px 4px 0px;
+    font-weight: 500;
+    letter-spacing: 1px;
+}

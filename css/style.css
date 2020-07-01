@@ -1,0 +1,20 @@
+html {
+    box-sizing: border-box;
+    scroll-behavior: smooth;
+}
+
+*, ::after, ::before {
+    box-sizing: inherit;
+}
+
+body {
+    max-width: 1000px;
+    margin: 0 auto;
+    font-family: 'Catamaran', sans-serif;
+    line-height: 1.5;
+}
+
+.main {
+    padding-left: 20px;
+    padding-right: 20px;
+}

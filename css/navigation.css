@@ -1,0 +1,44 @@
+.navigation {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+.navigation__list {
+    margin: auto;
+    padding-left: 0;
+    text-align: center;
+}
+
+.navigation__item {
+    display: inline-block;
+    padding: 10px 0;
+    list-style-type: none;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 1px;
+}
+
+.navigation__link {
+    padding: 20px;
+    color: #222222;
+    text-decoration: none;
+}
+
+.navigation__link:visited {
+    color: #222222;
+}
+
+.navigation__link:focus {
+    outline: 2px solid #222222;
+}
+
+.navigation__link:hover {
+    color: #b7b7b7;
+    text-decoration: underline;
+}
+
+.navigation__link:active {
+    color: #ad5827;
+    outline: none;
+}
